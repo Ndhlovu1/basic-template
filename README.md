@@ -2,7 +2,7 @@
 
 ## A menu ordering page with minimalistic features
 
-## Screenshots of the final Product
+## Screenshots of the final product
 
 ![Screenshot from 2023-01-01 17-38-56](https://user-images.githubusercontent.com/46927702/210176653-eacf328f-3b29-4eb5-a3be-ed360316c430.png)
 
