@@ -1,4 +1,6 @@
+# Menu Display
 
+## A menu ordering page with minimalistic features
 
 ## Screenshots of the final Product
 
