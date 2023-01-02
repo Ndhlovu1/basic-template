@@ -4,7 +4,7 @@
 
 ## Screenshots of the final product
 
-### A default layout for the
+### A default layout for the index
 ![Screenshot from 2023-01-01 17-38-56](https://user-images.githubusercontent.com/46927702/210176653-eacf328f-3b29-4eb5-a3be-ed360316c430.png)
 
 ### A possible second interface design
